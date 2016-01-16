@@ -1,0 +1,2 @@
+# inote
+ideas
